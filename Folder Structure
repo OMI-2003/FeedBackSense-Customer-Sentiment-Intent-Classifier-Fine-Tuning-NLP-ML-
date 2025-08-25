@@ -1,0 +1,11 @@
+FeedBackSense/
+│
+├── data/
+│   └── customer_feedback.csv       # Sample dataset
+│
+├── models/                         # Will store fine-tuned model
+│
+├── train.py                        # Script to fine-tune RoBERTa
+├── inference.py                     # Script for inference/prediction
+├── requirements.txt                 # Dependencies
+└── README.md                        # Project description
