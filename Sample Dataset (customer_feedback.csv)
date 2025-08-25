@@ -1,0 +1,11 @@
+id,feedback,sentiment,intent
+1,"The product quality is amazing and delivery was fast.","positive","praise"
+2,"I am unhappy with the late delivery of my order.","negative","complaint"
+3,"Can you provide more details on the warranty?","neutral","query"
+4,"Support team resolved my issue quickly!","positive","praise"
+5,"The app keeps crashing when I try to login.","negative","complaint"
+6,"How can I reset my password?","neutral","query"
+7,"Great service and friendly staff.","positive","praise"
+8,"I want a refund for my last purchase.","negative","complaint"
+9,"Is there a tutorial for using this feature?","neutral","query"
+10,"Excellent product, highly recommend!","positive","praise"
